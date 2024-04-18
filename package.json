@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Instalasi steno dengan npm.",
   "dependencies": {
-    "steno": "^2.1.0"
+    "steno": "^1.0.0"
   }
 }
